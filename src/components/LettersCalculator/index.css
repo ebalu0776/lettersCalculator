@@ -1,0 +1,34 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #1d976c, #93f9b9, #219a6f);
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+  margin: 20px;
+}
+
+.card-container {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  justify-self: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 40px;
+}
+
+.letters-calculator {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.para-container {
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  margin: 50px;
+}
